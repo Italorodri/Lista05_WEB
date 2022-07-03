@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+h4{
+    padding-top: 20px;
+}
+
+#titulo{
+    margin-left: 16px;
+}
+
+.tiziu{
+    margin-left: 210px;
+    padding: 20px;
+}
+
+.formularioLogin{
+    margin-top: 180px;   
+    width: 500px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.formularioCadastro {
+    width: 500px;
+    background-color: white;
+    border-radius: 10px;
+}
